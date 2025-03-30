@@ -54,13 +54,10 @@ Below is the circuit schematic used in this project:
 3. Use a heat source to observe automatic fan speed control.
 4. Monitor LED brightness changes as temperature increases.
 
-## Future Improvements
+## Possible Improvements
 - Add **microcontroller-based control** for more precise fan speed regulation.
 - Implement **hysteresis control** to avoid rapid fan switching.
 - Include **data logging** for temperature and fan speed monitoring.
 
----
 
-This project provides a **reliable and efficient** method to regulate fan speed using temperature feedback, making it suitable for **electronics cooling applications**.
 
-💡 *Feel free to contribute or suggest improvements!*
